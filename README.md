@@ -1,4 +1,4 @@
-<img align="center" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"/>  
+<img align="center" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100" height="100"/>  
 <h1>IBERSON</h1>
 ### Hi there 👋
 

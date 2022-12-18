@@ -1,5 +1,6 @@
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="270" height="220">  
 <h1>Welcome!✌</h1>
+<h3>More about me: 💻🤓</h3>
 
 <!--
 **Iberson-AndSil/Iberson-AndSil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

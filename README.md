@@ -2,8 +2,12 @@
 <h1>Welcome!✌</h1>
 <h3>More about me: 🤓</h3>
 <p>- 💻 I am a systems engineering student.</p>
-<!--
-**Iberson-AndSil/Iberson-AndSil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>- ⌨ I am a lover of the world of programming.</p>
+<p>- 🤖 I like learning about new technologies.</p>
+
+
+
+<!--**Iberson-AndSil/Iberson-AndSil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

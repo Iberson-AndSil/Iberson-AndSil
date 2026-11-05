@@ -1,7 +1,7 @@
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="270" height="220">  
 <h1>Welcome!✌</h1>
 <h3>More about me: 👨‍💻</h3>
-<p>- 🤓 I am a systems engineering student.</p>
+<p>- 🤓 I am a systems engineering.</p>
 <p>- 💻 I am a lover of the world of programming.</p>
 <p>- 🤖 I like learning about new technologies.</p>
 <h3>Languages ​​and tools: 🧮</h3>
